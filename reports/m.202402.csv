@@ -1,0 +1,4 @@
+item_name,is_expense,quantity,sum_of_one
+Chocolate,TRUE,5000,5
+Cookies,TRUE,12,15000
+Hot dog stand,FALSE,5000,120

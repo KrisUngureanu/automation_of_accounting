@@ -1,0 +1,4 @@
+item_name,is_expense,quantity,sum_of_one
+Flowers,TRUE,5000,5
+Boxes,TRUE,12,15000
+Sleds,FALSE,1000,120

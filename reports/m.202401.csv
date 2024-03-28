@@ -1,0 +1,4 @@
+item_name,is_expense,quantity,sum_of_one
+Air balloons,TRUE,5000,5
+Ice cream vending machines,TRUE,12,15000
+Ice cream sales,FALSE,1000,120
